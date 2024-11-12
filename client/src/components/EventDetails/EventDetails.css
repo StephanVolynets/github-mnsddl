@@ -1,0 +1,21 @@
+.event-details {
+  display: grid;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.event-details p {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #4a5568;
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.date, .location {
+  padding: 0.25rem 0;
+}
